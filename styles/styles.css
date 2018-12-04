@@ -1,19 +1,28 @@
 body {
-    background-color: blanchedalmond;
+    background-color: rgb(153, 187, 153);
 }
 
 #container {
-    margin-left: 50%;
+    margin-left: 20%;
 }
 
+h1 {
+    font-size: 38px;
+}
 
 #greenCleats {
-    border-width: 5px;
+    /* border-width: 5px;
     border-style: solid;
-    border-color: red;
+    border-color: red; */
 }
 
 #blueCleats {
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: red; */
+}
+
+img {
     border-width: 5px;
     border-style: solid;
     border-color: red;
