@@ -26,4 +26,10 @@ img {
     border-width: 5px;
     border-style: solid;
     border-color: red;
+    /* float: left; */
+}
+
+.items {
+    display: flex;
+    margin-bottom: 20;
 }
